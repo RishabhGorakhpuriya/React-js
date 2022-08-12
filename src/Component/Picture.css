@@ -1,0 +1,17 @@
+.gffkfk{
+    display: -ms-flexbox; 
+    display: flex;
+    -ms-flex-wrap: wrap; 
+    flex-wrap: wrap;
+    padding: 0 15px;
+  }
+  .qieie {
+    -ms-flex: 50%; 
+    flex: 30%;
+    padding: 0 2px;
+  }
+  .qieie img {
+    margin-top: 8px;
+    vertical-align: middle;
+  } 
+
